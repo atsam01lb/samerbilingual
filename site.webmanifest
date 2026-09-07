@@ -1,0 +1,13 @@
+{
+  "name": "Relax Time Trading",
+  "short_name": "Relax Time",
+  "description": "Trade With Knowledge. Manage With Discipline. An official trading platform for the MENA region.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FAF6EF",
+  "theme_color": "#FAF6EF",
+  "icons": [
+    { "src": "images/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "images/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
